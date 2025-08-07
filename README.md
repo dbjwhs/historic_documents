@@ -22,3 +22,4 @@ Documents are organized in the `documents/` directory with descriptive filenames
 - **[A Mathematical Theory of Communication](documents/Shannon_Mathematical_Theory_Communication.md)** - Claude Shannon's groundbreaking 1948 work that established information theory and provided the mathematical foundation for the digital age
 - **[Go To Statement Considered Harmful](documents/Dijkstra_Go_To_Statement_Considered_Harmful.md)** - Edsger Dijkstra's influential 1968 letter that sparked the structured programming movement and changed how we write code
 - **[RFC 791: Internet Protocol](documents/RFC_791_Internet_Protocol.md)** - Jon Postel's 1981 specification that defined IPv4 and provided the addressing foundation for the modern internet
+- **[RFC 822: Internet Text Messages](documents/RFC_822_Internet_Text_Messages.md)** - David Crocker's 1982 specification that established the email message format and addressing system still used today
