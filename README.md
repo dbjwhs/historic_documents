@@ -25,3 +25,4 @@ Documents are organized in the `documents/` directory with descriptive filenames
 - **[RFC 822: Internet Text Messages](documents/RFC_822_Internet_Text_Messages.md)** - David Crocker's 1982 specification that established the email message format and addressing system still used today
 - **[RFC 1: Host Software](documents/RFC_1_Host_Software.md)** - Steve Crocker's historic 1969 document that launched the RFC series and established the collaborative process that built the internet
 - **[First Draft of a Report on the EDVAC](documents/Von_Neumann_EDVAC_Report.md)** - John von Neumann's 1945 report that defined the stored-program computer architecture used in virtually all modern computers
+- **[RFC 793: Transmission Control Protocol](documents/RFC_793_TCP_Protocol.md)** - Jon Postel's 1981 specification that defined TCP, providing reliable data transmission and completing the TCP/IP foundation of the internet
