@@ -29,3 +29,4 @@ Documents are organized in the `documents/` directory with descriptive filenames
 - **[RFC 2616: HTTP/1.1](documents/RFC_2616_HTTP_1_1.md)** - The 1999 specification that defined HTTP/1.1, enabling the explosive growth of the World Wide Web and modern internet applications
 - **[ARPANET Foundational Papers](documents/ARPANET_Foundational_Papers.md)** - Collection of visionary and technical papers that created the internet, from Licklider's networking vision to Cerf and Kahn's TCP/IP protocol
 - **[Foundational Programming Languages](documents/Foundational_Programming_Languages.md)** - Historic papers documenting the creation of FORTRAN, COBOL, LISP, and ALGOL that transformed programming from machine code to high-level abstractions
+- **[A Relational Model of Data](documents/Codd_Relational_Model.md)** - Edgar Codd's revolutionary 1970 paper that established the theoretical foundation for relational databases and created the multi-billion dollar database industry
