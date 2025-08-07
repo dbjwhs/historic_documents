@@ -7,6 +7,8 @@
 **Correction:** Volume 43, Pages 544-546 (1937)  
 **Type:** Foundational Mathematical Paper  
 
+**📄 Original Document:** [On Computable Numbers, with an Application to the Entscheidungsproblem - Turing Archive](https://www.turingarchive.org/browse.php/B/12)  
+
 ## Historical Context
 
 This groundbreaking 1936 paper by Alan Turing laid the theoretical foundation for modern computer science. Written when Turing was just 24 years old, it addressed David Hilbert's Entscheidungsproblem (decision problem) - whether there exists a definite method that could, in principle, be applied to any assertion and determine whether it is true or false.

@@ -4,6 +4,12 @@
 
 This collection documents the creation of the first high-level programming languages that transformed computing from machine-specific coding to portable, human-readable programming. These languages established fundamental concepts and paradigms that continue to influence modern software development.
 
+**📄 Key Original Documents:**
+- [The FORTRAN Automatic Coding System - Backus et al. (1957)](https://www.fortran.com/FortranForTheIBM704.pdf)
+- [COBOL-60 Report - CODASYL Committee (1960)](https://archive.org/details/COBOL60Report)
+- [Recursive Functions of Symbolic Expressions - McCarthy (CACM, 1960)](https://dl.acm.org/doi/10.1145/367177.367199)
+- [Report on the Algorithmic Language ALGOL 60 - Naur et al. (CACM, 1960)](https://dl.acm.org/doi/10.1145/367236.367262)
+
 ## Historical Context
 
 The 1950s and early 1960s marked a revolutionary period in computing when programming evolved from direct machine code manipulation to high-level language abstractions. These foundational languages solved the critical problems of programmer productivity, code portability, and software maintainability that enabled the computer revolution.

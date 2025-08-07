@@ -9,6 +9,8 @@
 **Type:** Internet Standard  
 **Companion to:** RFC 791 (Internet Protocol)  
 
+**📄 Original Document:** [RFC 793 - Transmission Control Protocol - IETF Datatracker](https://datatracker.ietf.org/doc/rfc793/)  
+
 ## Historical Context
 
 RFC 793 defined the Transmission Control Protocol (TCP), the reliable transport layer protocol that, together with the Internet Protocol (IP) defined in RFC 791, forms the TCP/IP protocol suite that became the foundation of the modern internet. Published simultaneously with RFC 791 in September 1981, these specifications replaced earlier ARPANET protocols and provided the technical foundation for internet growth.

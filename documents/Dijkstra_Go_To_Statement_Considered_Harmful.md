@@ -7,6 +7,8 @@
 **Type:** Letter to the Editor / Programming Methodology Paper  
 **Original Title:** "A Case Against the GO TO Statement"  
 
+**📄 Original Document:** [Go To Statement Considered Harmful - Communications of the ACM](https://dl.acm.org/doi/10.1145/362929.362947)  
+
 ## Historical Context
 
 This influential letter by Dutch computer scientist Edsger Dijkstra sparked a major debate in the programming community and became one of the most cited papers in computer science. Published during the height of the "software crisis" of the 1960s, it challenged prevailing programming practices and laid the groundwork for structured programming.

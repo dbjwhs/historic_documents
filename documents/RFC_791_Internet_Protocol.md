@@ -9,6 +9,8 @@
 **Replaces:** RFC 760  
 **Type:** Internet Standard  
 
+**📄 Original Document:** [RFC 791 - Internet Protocol - IETF Datatracker](https://datatracker.ietf.org/doc/rfc791/)  
+
 ## Historical Context
 
 RFC 791 defined version 4 of the Internet Protocol (IPv4), which became the foundation of the modern internet. Published in 1981 as part of the DARPA Internet Program, this specification provided the addressing and routing mechanisms that enabled diverse networks to interconnect into what would become the global internet.

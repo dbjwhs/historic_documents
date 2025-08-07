@@ -7,6 +7,8 @@
 **Type:** Foundational Mathematical Paper  
 **Reprinted:** Proceedings of the IEEE, Vol. 86, No. 2 (February 1998)  
 
+**📄 Original Document:** [A Mathematical Theory of Communication - Bell System Technical Journal](https://ieeexplore.ieee.org/document/6773024)  
+
 ## Historical Context
 
 Claude Shannon's 1948 paper established information theory as a mathematical discipline and laid the foundation for the digital communication age. Written while Shannon worked at Bell Labs, this groundbreaking work provided the theoretical framework that would enable everything from data compression to error correction codes, ultimately making modern digital communication possible.

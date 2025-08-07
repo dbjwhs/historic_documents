@@ -9,6 +9,8 @@
 **Obsoleted By:** RFC 7230-7237 (2014)  
 **Type:** Internet Standard  
 
+**📄 Original Document:** [RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1 - IETF Datatracker](https://datatracker.ietf.org/doc/rfc2616/)  
+
 ## Historical Context
 
 RFC 2616 defined HTTP/1.1, the protocol that powered the explosive growth of the World Wide Web in the late 1990s and 2000s. Building upon the original HTTP/0.9 and HTTP/1.0 protocols created by Tim Berners-Lee, HTTP/1.1 added crucial features for performance, reliability, and functionality that enabled the web to scale from a document sharing system to the foundation of the global digital economy.

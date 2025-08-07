@@ -7,6 +7,8 @@
 **Type:** Foundational Computer Science Paper  
 **Significance:** Established theoretical foundation for relational database systems  
 
+**📄 Original Document:** [A Relational Model of Data for Large Shared Data Banks - Communications of the ACM](https://dl.acm.org/doi/10.1145/362384.362685)  
+
 ## Historical Context
 
 Edgar Codd's 1970 paper revolutionized database management by introducing a mathematical foundation for data storage and retrieval. At the time, database systems were primarily hierarchical or network-based, requiring programmers to navigate complex pointer structures to access data. Codd's relational model abstracted away physical storage details and provided a simple, mathematically rigorous approach to data management.

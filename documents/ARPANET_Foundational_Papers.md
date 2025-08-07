@@ -4,6 +4,11 @@
 
 This collection represents the foundational documents that created the internet, spanning from early networking vision papers in the 1960s through the technical specifications that enabled the first networked computers to communicate in the 1970s.
 
+**📄 Key Original Documents:**
+- [A Protocol for Packet Network Intercommunication - Cerf & Kahn (IEEE, 1974)](https://ieeexplore.ieee.org/document/1092259)
+- [The Computer as a Communication Device - Licklider & Taylor (Science & Technology, 1968)](https://www.cbi.umn.edu/hostedpublications/pdf/Licklider_ComputerCommunication_1968.pdf)
+- [Man-Computer Symbiosis - Licklider (IRE Transactions, 1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
+
 ## Historical Context
 
 The development of ARPANET and the early internet emerged from a unique confluence of Cold War urgency, academic research freedom, and visionary thinking about human-computer interaction. These papers document the transformation from isolated computers to the interconnected global network that became the internet.

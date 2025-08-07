@@ -8,6 +8,9 @@
 **Current Volumes:** 4 complete volumes, Volume 5 in progress  
 **Type:** Comprehensive Treatment of Algorithms and Programming  
 
+**📄 Original Work:** [The Art of Computer Programming - Addison-Wesley Professional](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)  
+**Publisher Information:** [Pearson - TAOCP Series](https://www.pearson.com/en-us/subject-catalog/p/art-of-computer-programming-the-volumes-1-4a-boxed-set/P200000003493)  
+
 ## Historical Context
 
 Donald Knuth's "The Art of Computer Programming" (TAOCP) stands as one of the most influential and comprehensive works in computer science. Originally conceived as a single book on compiler design in the late 1950s, it evolved into a multi-volume exploration of fundamental algorithms and their analysis. The work has shaped how computer scientists think about algorithms, analysis of algorithms, and the mathematical foundations of programming.

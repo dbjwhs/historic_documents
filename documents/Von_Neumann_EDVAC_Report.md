@@ -9,6 +9,8 @@
 **Classification:** Originally confidential, limited distribution (24 copies)  
 **Type:** Technical Report / Computer Architecture Specification  
 
+**📄 Original Document:** [First Draft of a Report on the EDVAC - Computer History Museum](https://www.computerhistory.org/collections/catalog/102646140)  
+
 ## Historical Context
 
 The "First Draft of a Report on the EDVAC" represents one of the most influential documents in the history of computing. Written by mathematician John von Neumann in 1945, this report outlined the architecture for the Electronic Discrete Variable Automatic Computer (EDVAC) and established the fundamental design principles that would define virtually all digital computers for decades to come.

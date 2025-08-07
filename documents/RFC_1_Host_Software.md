@@ -8,6 +8,8 @@
 **Status:** Legacy (Informational)  
 **Type:** First Request for Comments Document  
 
+**📄 Original Document:** [RFC 1 - Host Software - IETF Datatracker](https://datatracker.ietf.org/doc/rfc1/)  
+
 ## Historical Context
 
 RFC 1, titled "Host Software," holds the distinction of being the very first Request for Comments document, published on April 7, 1969. Written by Steve Crocker at UCLA, this humble document launched what would become one of the most important series of technical specifications in computing history.

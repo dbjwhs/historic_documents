@@ -6,10 +6,11 @@
 **Publication:** IEEE Computer, July 1993  
 **Type:** Investigation Report and Case Study  
 
-**Related Resources:**
+**📄 Original Document:** [An Investigation of the Therac-25 Accidents - IEEE Computer, July 1993](https://ieeexplore.ieee.org/document/274940)
+
+**Additional Resources:**
 - [Wikipedia: Therac-25](https://en.wikipedia.org/wiki/Therac-25)
-- [Original IEEE Paper](https://ieeexplore.ieee.org/document/274940)
-- [Stanford PDF](https://web.stanford.edu/class/cs240/old/sp2014/readings/therac-25.pdf)
+- [Stanford PDF Mirror](https://web.stanford.edu/class/cs240/old/sp2014/readings/therac-25.pdf)
 
 This landmark investigation documents the worst series of radiation accidents in the 35-year history of medical accelerators, where software bugs in the Therac-25 linear accelerator led to massive radiation overdoses, deaths, and serious injuries between June 1985 and January 1987.
 

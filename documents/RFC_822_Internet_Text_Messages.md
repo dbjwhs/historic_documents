@@ -9,6 +9,8 @@
 **Replaces:** RFC 733  
 **Type:** Internet Standard  
 
+**📄 Original Document:** [RFC 822 - Standard for ARPA Internet Text Messages - IETF Datatracker](https://datatracker.ietf.org/doc/rfc822/)  
+
 ## Historical Context
 
 RFC 822 established the fundamental structure and syntax for electronic mail that remains largely unchanged today. Published in 1982 during the early growth of the ARPANET, this specification created the email message format that would become the global standard for electronic communication.
