@@ -116,6 +116,26 @@ The case demonstrates that software safety cannot be achieved through testing al
 
 This investigation established software safety as a distinct engineering discipline and remains essential reading for anyone developing systems where software failure could harm people. The lessons learned continue to influence safety engineering practices across industries, making this one of the most important documents in the history of software engineering.
 
+## Related Documents in This Collection
+
+### Foundational Computing Concepts
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - Turing's foundational work established the theoretical limits of computation, relevant to understanding what software can and cannot reliably accomplish in safety-critical systems.
+
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program architecture enabled the software-controlled systems like the Therac-25, highlighting how architectural decisions affect safety considerations.
+
+### Programming and Software Engineering  
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - Dijkstra's advocacy for structured programming principles directly relates to the Therac-25's software design flaws, including race conditions and concurrent programming errors.
+
+- **[Foundational Programming Languages](Foundational_Programming_Languages.md)** - The evolution of programming languages shows the ongoing challenge of creating reliable software, with the Therac-25 representing failures in real-time systems programming.
+
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - Knuth's rigorous approach to algorithm analysis and correctness represents the kind of mathematical verification that was lacking in the Therac-25 development.
+
+### Systems and Architecture
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - Shannon's information theory provides the mathematical foundation for understanding how errors propagate through systems, relevant to the Therac-25's error handling failures.
+
+### Connections and Contrasts
+This investigation illustrates the critical importance of applying the theoretical foundations and rigorous methodologies documented in the other papers of this collection. The Therac-25 accidents resulted from failures to apply established computer science principles to safety-critical software development, making this document a cautionary tale about the consequences of ignoring fundamental computing concepts in real-world systems.
+
 ---
 
 *This case study serves as a permanent reminder that with the power of software comes the responsibility to ensure it operates safely, especially when human lives depend on it.*

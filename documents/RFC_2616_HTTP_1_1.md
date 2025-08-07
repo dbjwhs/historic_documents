@@ -235,4 +235,40 @@ RFC 2616 defined the protocol that transformed the World Wide Web from a simple 
 
 ---
 
+## Related Documents in This Collection
+
+### Network Protocol Dependencies
+- **[RFC 793: Transmission Control Protocol](RFC_793_TCP_Protocol.md)** - HTTP runs on top of TCP's reliable connection service, depending on TCP for error-free, ordered delivery of web requests and responses.
+
+- **[RFC 791: Internet Protocol](RFC_791_Internet_Protocol.md)** - HTTP traffic is delivered using IP datagrams, with the Internet Protocol providing the routing and addressing that enables global web access.
+
+### Message Format Heritage
+- **[RFC 822: Internet Text Messages](RFC_822_Internet_Text_Messages.md)** - HTTP's header structure was directly influenced by RFC 822's email message format, adapting email's structured headers for web communication.
+
+### RFC Series Evolution
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - HTTP represents the culmination of the collaborative RFC process, showing how the open standards development initiated by RFC 1 enabled the World Wide Web.
+
+### Networking Foundations
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - HTTP builds on the internetworking vision described in foundational ARPANET papers, enabling the distributed information sharing that pioneers like Licklider envisioned.
+
+### Information Theory Applications
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - HTTP's compression, caching, and content negotiation features directly apply Shannon's information theory principles for efficient data transmission.
+
+### Database Integration
+- **[A Relational Model of Data](Codd_Relational_Model.md)** - Modern web applications use HTTP to interface with relational databases, making Codd's data management concepts accessible through web interfaces.
+
+### Programming Language Support
+- **[Foundational Programming Languages](Foundational_Programming_Languages.md)** - Web development languages and frameworks implement HTTP clients and servers, making web communication accessible to programmers using the languages documented in this collection.
+
+### System Architecture
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Web servers and browsers run on von Neumann architecture computers, implementing HTTP protocol processing in stored-program systems.
+
+### Software Engineering
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - HTTP's stateless, structured approach to communication reflects structured programming principles applied to network protocols.
+
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - HTTP implementations use algorithms and data structures from Knuth's work, particularly for parsing, caching, and optimization.
+
+### World Wide Web Foundation
+HTTP represents the practical realization of global information sharing, building on the entire foundation of computer science and networking documented in this collection. The protocol enabled the transformation of the internet from a research network to the information infrastructure of modern society.
+
 *"The Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems. It is a generic, stateless, protocol which can be used for many tasks beyond its use for hypertext."* - RFC 2616

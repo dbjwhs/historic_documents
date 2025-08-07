@@ -214,4 +214,33 @@ The "First Draft of a Report on the EDVAC" stands as one of the most influential
 
 ---
 
+## Related Documents in This Collection
+
+### Theoretical Foundations
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - Turing's abstract universal computing machine provided the theoretical foundation that von Neumann transformed into practical computer architecture. The stored-program concept directly implements Turing's idea of a machine that can execute any computable function.
+
+### Information Processing
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - Shannon's information theory provided the mathematical framework for understanding how the stored-program architecture processes and transmits information, enabling efficient data representation and manipulation.
+
+### Programming and Software
+- **[Foundational Programming Languages](Foundational_Programming_Languages.md)** - Von Neumann's architecture enabled the development of high-level programming languages by providing a stable, uniform platform for software execution.
+
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - Dijkstra's structured programming principles address the complexity challenges that arose from von Neumann's flexible stored-program architecture.
+
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - Knuth's algorithmic analysis assumes the von Neumann architecture, with its sequential instruction execution and random-access memory.
+
+### Data Management
+- **[A Relational Model of Data](Codd_Relational_Model.md)** - Codd's relational databases run on von Neumann architecture computers, using the stored-program concept to implement complex data processing operations.
+
+### Network Computing
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - Early networking connected von Neumann architecture computers, extending the stored-program concept to distributed computing.
+
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - The internet emerged from connecting von Neumann architecture machines, creating a network of stored-program computers.
+
+### Safety and Reliability
+- **[The Therac-25 Investigation](Therac-25_Investigation.md)** - The Therac-25 accidents occurred in a system built on von Neumann architecture, illustrating both the power and the responsibility that comes with stored-program computing.
+
+### Architectural Legacy
+Von Neumann's EDVAC report established the architectural foundation that enabled virtually every subsequent development in computer science documented in this collection. The stored-program concept made possible the flexible, general-purpose computing that underlies programming languages, database systems, networking protocols, and all modern software systems.
+
 *"The device requires a considerable memory... Furthermore, it must be possible to give these memories and instructions which govern a complicated problem... The device must automatically execute each instruction as it arises."* - John von Neumann, EDVAC Report

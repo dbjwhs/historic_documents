@@ -125,6 +125,40 @@ This paper represents one of the rare instances where a single work creates an e
 
 Shannon's paper stands as one of the most influential works in the history of engineering and mathematics. It provided the theoretical foundation that made the digital age possible, establishing fundamental limits and optimal methods for information processing that continue to guide technological development today.
 
+## Related Documents in This Collection
+
+### Theoretical Foundations
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - Turing's work on computability and Shannon's information theory together form the dual mathematical foundations of computer science - what can be computed and how information can be transmitted and processed.
+
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program architecture implements both Turing's computational model and Shannon's information processing concepts, creating practical computers that manipulate information according to both theoretical frameworks.
+
+### Network Communications
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - The first RFC document applied Shannon's communication principles to early networking, establishing protocols for reliable information transmission between computers.
+
+- **[RFC 791: Internet Protocol](RFC_791_Internet_Protocol.md)** - The Internet Protocol implements Shannon's concepts of error detection and channel capacity in packet-switched networks, enabling reliable data transmission across unreliable networks.
+
+- **[RFC 793: Transmission Control Protocol](RFC_793_TCP_Protocol.md)** - TCP's error correction, flow control, and reliable delivery mechanisms directly apply Shannon's theorems about communication over noisy channels.
+
+- **[RFC 822: Internet Text Messages](RFC_822_Internet_Text_Messages.md)** - Email message formatting and transmission represent practical applications of Shannon's communication model for structured information exchange.
+
+- **[RFC 2616: HTTP/1.1](RFC_2616_HTTP_1_1.md)** - HTTP's compression, caching, and content negotiation features implement information-theoretic principles for efficient web communication.
+
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - The ARPANET's packet-switching design directly applied Shannon's insights about optimal information transmission through networks with limited capacity and reliability.
+
+### Data and Algorithms
+- **[A Relational Model of Data](Codd_Relational_Model.md)** - Codd's relational model applies information-theoretic concepts to database design, using mathematical principles to minimize redundancy and maximize information content in data storage.
+
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - Knuth's algorithmic analysis often involves information-theoretic concepts, particularly in sorting, searching, and data compression algorithms.
+
+### Programming and Software Engineering
+- **[Foundational Programming Languages](Foundational_Programming_Languages.md)** - Programming language design involves encoding information efficiently and reliably, applying Shannon's principles to human-computer communication.
+
+### Systems Reliability
+- **[The Therac-25 Investigation](Therac-25_Investigation.md)** - The Therac-25 accidents highlight the importance of Shannon's insights about error detection and correction in safety-critical systems, showing consequences when information theory principles are inadequately applied.
+
+### Mathematical Heritage
+Shannon's information theory provides the quantitative foundation that makes modern digital systems possible. Every document in this collection that deals with digital communication, data storage, or algorithmic analysis builds upon the mathematical framework Shannon established for measuring and optimizing information transmission.
+
 ---
 
 *This work transformed abstract mathematical concepts into practical engineering principles that enable modern digital communication, from smartphones to the internet.*

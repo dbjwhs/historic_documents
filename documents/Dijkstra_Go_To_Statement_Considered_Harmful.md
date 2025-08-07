@@ -132,4 +132,28 @@ Though only two pages long, this paper fundamentally changed how programmers thi
 
 ---
 
+## Related Documents in This Collection
+
+### Theoretical Foundations
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - Turing's formalization of computation provides the theoretical framework that Dijkstra's structured programming makes more practical and reliable to implement.
+
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - Shannon's information theory provides mathematical principles for clear, unambiguous communication that parallel Dijkstra's goals for clear, structured program flow.
+
+### Programming Language Evolution
+- **[Foundational Programming Languages](Foundational_Programming_Languages.md)** - Dijkstra's structured programming principles directly influenced the design of later programming languages, particularly Pascal and the structured features of modern languages.
+
+### Software Engineering Practices
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - Knuth's rigorous approach to algorithm design and analysis embodies the mathematical precision that Dijkstra advocated for in programming methodology.
+
+### Practical Applications
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program architecture enabled the complex software that made Dijkstra's structured programming principles necessary for managing program complexity.
+
+- **[A Relational Model of Data](Codd_Relational_Model.md)** - Codd's mathematical approach to data organization shares Dijkstra's preference for formal, structured approaches over ad-hoc methods.
+
+### Cautionary Lessons
+- **[The Therac-25 Investigation](Therac-25_Investigation.md)** - This case study demonstrates the tragic consequences that can result from the kind of unstructured, error-prone programming practices that Dijkstra's work sought to eliminate.
+
+### Historical Impact
+Dijkstra's advocacy for structured programming represents a crucial turning point in making programming more reliable and maintainable. His principles influenced virtually every subsequent development in software engineering methodology and programming language design documented in this collection.
+
 *"The go to statement should be abolished from all 'higher level' programming languages... The go to statement as it stands is just too primitive; it is too much an invitation to make a mess of one's program." - Edsger W. Dijkstra*

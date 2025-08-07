@@ -279,4 +279,36 @@ The foundational programming languages documented here represent one of the most
 
 ---
 
+## Related Documents in This Collection
+
+### Theoretical Foundations
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - Turing's work on computability provided the theoretical foundation that programming languages implement, defining what can be computed and establishing the universal computing machine that languages target.
+
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - Shannon's information theory influenced programming language design, particularly in areas of data representation, compression, and efficient encoding of program instructions.
+
+### Computer Architecture
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program architecture enabled high-level programming languages by providing a stable, uniform platform that could execute compiled or interpreted code.
+
+### Programming Methodology
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - Dijkstra's structured programming principles directly influenced the design of later programming languages, leading to better control structures and more reliable software.
+
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - Knuth's algorithmic analysis provides the mathematical foundation for understanding program efficiency and correctness in all programming languages.
+
+### Data Management
+- **[A Relational Model of Data](Codd_Relational_Model.md)** - Database query languages like SQL represent specialized programming languages built on mathematical foundations, showing how programming language concepts extend to data processing.
+
+### Network Programming
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - Early network programming required the foundational concepts established by programming languages, extending computation across distributed systems.
+
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - The collaborative development of ARPANET paralleled the open, community-driven development of programming languages.
+
+### Safety and Reliability
+- **[The Therac-25 Investigation](Therac-25_Investigation.md)** - This case study illustrates the critical importance of applying sound programming language principles and practices in safety-critical systems, showing consequences when programming fundamentals are ignored.
+
+### Language Evolution Impact
+The foundational programming languages documented here established paradigms and principles that influence every aspect of computing represented in this collection. From network protocols implemented in these languages to database systems built with them, these languages provided the tools that made the computer revolution possible.
+
+### Modern Relevance
+Today's programming languages continue to build on concepts from FORTRAN (scientific computation), COBOL (business processing), LISP (symbolic computation), and ALGOL (structured programming). The principles established by these foundational languages remain relevant to contemporary software development, artificial intelligence, web programming, and all areas of computer science.
+
 *"The computer revolution hasn't started yet. We are still in the pioneering phase."* - John McCarthy, creator of LISP

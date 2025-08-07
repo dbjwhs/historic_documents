@@ -159,4 +159,30 @@ RFC 791 represents one of the most successful technical specifications in histor
 
 ---
 
+## Related Documents in This Collection
+
+### Complementary Protocols
+- **[RFC 793: Transmission Control Protocol](RFC_793_TCP_Protocol.md)** - TCP provides the reliable, connection-oriented service that runs on top of IP's unreliable datagram delivery, together forming the TCP/IP protocol suite that powers the internet.
+
+### RFC Series Foundation
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - The first RFC document established the collaborative process that led to RFC 791, showing the evolution from early host-to-host communication concepts to the standardized Internet Protocol.
+
+- **[RFC 822: Internet Text Messages](RFC_822_Internet_Text_Messages.md)** - Email systems rely on IP for message delivery between mail servers, demonstrating practical application of internet-layer protocols.
+
+- **[RFC 2616: HTTP/1.1](RFC_2616_HTTP_1_1.md)** - The World Wide Web depends on IP for packet delivery, with HTTP running over TCP/IP to enable global web communication.
+
+### Networking Foundations
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - RFC 791 represents the practical implementation of the internetworking vision described in early ARPANET papers, particularly Cerf and Kahn's TCP/IP protocol work.
+
+### Theoretical Underpinnings
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - Shannon's information theory provides the mathematical framework for understanding packet transmission, error detection, and channel capacity that IP implements.
+
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - Turing's work on computation theory underlies the algorithmic routing and addressing decisions that make IP packet forwarding possible.
+
+### System Architecture
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program architecture enabled the computers that implement IP routing and forwarding algorithms.
+
+### Protocol Suite Significance
+RFC 791 represents the network layer foundation that enables all higher-level internet applications. Every document in this collection that deals with networked computing depends on the addressing and routing mechanisms that IP provides.
+
 *"The internet protocol is specifically limited in scope to provide the functions necessary to deliver a package of bits (an internet datagram) from a source to a destination over an interconnected system of networks."* - RFC 791

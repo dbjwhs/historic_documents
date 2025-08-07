@@ -307,4 +307,43 @@ The work's combination of mathematical rigor, practical insight, and pedagogical
 
 *"Science is knowledge which we understand so well that we can teach it to a computer. Everything else is art."* - Donald E. Knuth
 
+## Related Documents in This Collection
+
+### Theoretical Foundations
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - Turing's work on computability provides the theoretical foundation for Knuth's algorithmic analysis, establishing what can be computed and the fundamental nature of algorithmic processes.
+
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - Shannon's information theory appears throughout TAOCP, particularly in discussions of data compression, optimal encoding, and analysis of sorting and searching algorithms.
+
+### Computer Architecture
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program architecture provides the computational model that Knuth assumes throughout TAOCP, with algorithms designed for sequential execution and random-access memory.
+
+### Programming Methodology
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - Dijkstra's structured programming principles complement Knuth's algorithmic rigor, both advocating for mathematical precision and clarity in program design.
+
+- **[Foundational Programming Languages](Foundational_Programming_Languages.md)** - Knuth's algorithms are implemented in the programming languages documented in this collection, with TAOCP providing the algorithmic foundation that these languages make accessible to programmers.
+
+### Data Management
+- **[A Relational Model of Data](Codd_Relational_Model.md)** - Database systems implement many of the sorting, searching, and data structure algorithms that Knuth documented, making TAOCP essential reading for database implementers.
+
+### Network Systems
+- **[RFC 793: Transmission Control Protocol](RFC_793_TCP_Protocol.md)** - TCP implementations use algorithms for queue management, flow control, and optimization that are covered in TAOCP.
+
+- **[RFC 2616: HTTP/1.1](RFC_2616_HTTP_1_1.md)** - Web servers and browsers implement caching, parsing, and string processing algorithms documented in Knuth's work.
+
+### Software Engineering
+- **[The Therac-25 Investigation](Therac-25_Investigation.md)** - This case study illustrates the importance of the rigorous, mathematical approach to software development that Knuth advocates, showing consequences when algorithmic thinking is abandoned.
+
+### Standards and Collaboration
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - The collaborative, documented approach to technical development that the RFC series represents parallels Knuth's comprehensive documentation methodology in TAOCP.
+
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - The systematic, scholarly approach to networking research exemplified by ARPANET papers reflects the same rigorous methodology that Knuth brings to algorithm analysis.
+
+### Educational Legacy
+Knuth's work provides the algorithmic foundation that underlies virtually every system and protocol documented in this collection. From the sorting algorithms used in database systems to the data structures that implement network protocols, TAOCP documents the fundamental computational techniques that make modern computing possible.
+
+### Continuing Influence
+The mathematical rigor and comprehensive analysis that Knuth brought to computer science continues to influence how we approach software development, system design, and algorithm implementation across all areas of computing represented in this collection.
+
+*"Science is knowledge which we understand so well that we can teach it to a computer. Everything else is art."* - Donald E. Knuth
+
 *"The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming."* - Donald E. Knuth

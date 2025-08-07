@@ -239,4 +239,37 @@ Edgar Codd's 1970 paper represents one of the most successful transfers of mathe
 
 ---
 
+## Related Documents in This Collection
+
+### Mathematical Foundations
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - Turing's work on computability provides the theoretical foundation for the algorithms that implement relational operations, ensuring that database queries are computable and can be executed mechanically.
+
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - Shannon's information theory influences database design through concepts of redundancy elimination, optimal encoding, and information content measurement that are central to normalization.
+
+### System Architecture
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program architecture enabled the complex database management systems that implement Codd's relational model, providing the computational platform for data processing.
+
+### Programming and Algorithms
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - Knuth's work on sorting and searching algorithms directly applies to database systems, which implement relational operations using the fundamental algorithms Knuth documented.
+
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - Dijkstra's structured programming principles influenced database query language design, promoting declarative rather than procedural approaches to data access.
+
+- **[Foundational Programming Languages](Foundational_Programming_Languages.md)** - SQL and other database query languages represent specialized programming languages built on the principles established by foundational languages, particularly in mathematical notation and structured syntax.
+
+### Network and Distributed Systems
+- **[RFC 791: Internet Protocol](RFC_791_Internet_Protocol.md)** and **[RFC 793: Transmission Control Protocol](RFC_793_TCP_Protocol.md)** - Modern distributed databases depend on TCP/IP protocols for reliable data transmission between database nodes.
+
+- **[RFC 2616: HTTP/1.1](RFC_2616_HTTP_1_1.md)** - Web applications interface with relational databases through HTTP, making Codd's data model accessible via web browsers and REST APIs.
+
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - The collaborative, open approach to database standards development follows the model established by ARPANET's community-driven protocol development.
+
+### Quality and Reliability
+- **[The Therac-25 Investigation](Therac-25_Investigation.md)** - This case study demonstrates the importance of rigorous data management and verification principles that Codd advocated, showing how poor data integrity can contribute to system failures.
+
+### Standards and Process
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - The collaborative standards development process that RFC 1 initiated influenced database standardization efforts, including the development of SQL standards.
+
+### Information Management Revolution
+Codd's relational model transformed how we think about data organization and access, creating a mathematical foundation for information management that complements the computational and communication theories established by Turing and Shannon. The model's influence extends throughout the computer science concepts documented in this collection, from network protocols that transmit database queries to programming languages that implement database systems.
+
 *"The relational model is not just about organizing data in tables. It's about mathematical precision in data management, providing a solid theoretical foundation that enables both human understanding and machine optimization."* - Edgar F. Codd's contribution to computing

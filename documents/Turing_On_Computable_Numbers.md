@@ -62,6 +62,29 @@ This paper was developed independently but simultaneously with Alonzo Church's w
 
 This paper represents one of the most important theoretical contributions to computer science, establishing the mathematical foundations for the digital age before electronic computers existed. Turing's insights into the nature of computation continue to influence how we understand the possibilities and limitations of algorithmic problem-solving.
 
+## Related Documents in This Collection
+
+### Building on Turing's Foundation
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program architecture represents the practical implementation of Turing's theoretical universal computing machine, transforming the abstract Turing machine into concrete computer design.
+
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - Shannon's information theory provides the mathematical framework for understanding computation and communication that complements Turing's work on computability, together forming the theoretical foundation of computer science.
+
+### Programming and Algorithms
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - Knuth's comprehensive treatment of algorithms represents the practical application of Turing's theoretical framework, showing how the concept of algorithmic computation translates into real-world programming.
+
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - Dijkstra's structured programming principles address the practical challenge of creating reliable programs that implement the algorithmic processes Turing proved theoretically possible.
+
+- **[Foundational Programming Languages](Foundational_Programming_Languages.md)** - The development of high-level programming languages represents the evolution from Turing's abstract machine description to human-readable instructions that implement computable functions.
+
+### Applied Computing
+- **[A Relational Model of Data](Codd_Relational_Model.md)** - Codd's relational database model demonstrates how Turing's abstract concept of computation applies to practical data processing problems, using mathematical rigor similar to Turing's approach.
+
+### Safety and Reliability
+- **[The Therac-25 Investigation](Therac-25_Investigation.md)** - This case study illustrates the importance of understanding the limits of computation that Turing established, showing how failures to recognize computational limitations can have tragic consequences in safety-critical systems.
+
+### Historical Significance
+Turing's paper established the theoretical limits and possibilities of computation that all subsequent computer science work builds upon. Every document in this collection either directly implements concepts from Turing's work or represents applications of the computational paradigm he defined. His proof that some problems are fundamentally unsolvable remains relevant to modern discussions of AI, software verification, and the limits of algorithmic solutions.
+
 ---
 
 *For the complete original text, consult the Turing Digital Archive at King's College Cambridge or academic reprints in major computer science collections.*

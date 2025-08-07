@@ -198,4 +198,36 @@ RFC 793, together with RFC 791, created the TCP/IP protocol suite that became th
 
 ---
 
+## Related Documents in This Collection
+
+### Protocol Suite Partnership
+- **[RFC 791: Internet Protocol](RFC_791_Internet_Protocol.md)** - TCP and IP work together as the TCP/IP protocol suite, with TCP providing reliable, ordered delivery service on top of IP's unreliable datagram service. These companion specifications define the core protocols of the internet.
+
+### RFC Series Foundation
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - The collaborative RFC process established by RFC 1 enabled the development of TCP through open discussion and community input.
+
+### Network Applications
+- **[RFC 822: Internet Text Messages](RFC_822_Internet_Text_Messages.md)** - Email systems use TCP's reliable delivery service to ensure messages are transmitted without loss or corruption between mail servers.
+
+- **[RFC 2616: HTTP/1.1](RFC_2616_HTTP_1_1.md)** - The World Wide Web depends on TCP's connection-oriented, reliable service for web page delivery and interactive applications.
+
+### Networking Evolution
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - RFC 793 implements the internetworking vision described in foundational ARPANET papers, particularly Cerf and Kahn's original TCP/IP design.
+
+### Theoretical Foundations
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - TCP's error detection, flow control, and congestion control algorithms implement Shannon's theoretical insights about reliable communication over noisy channels.
+
+- **[On Computable Numbers](Turing_On_Computable_Numbers.md)** - TCP's state machine and algorithmic approach to reliable delivery represent practical applications of computational theory.
+
+### System Architecture
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann architecture computers implement TCP's complex algorithms for connection management and reliable delivery.
+
+### Software Engineering
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - TCP's state machine design embodies structured programming principles, avoiding the chaotic control flow that Dijkstra criticized.
+
+- **[The Art of Computer Programming](Knuth_Art_of_Computer_Programming.md)** - TCP implementations use many of the algorithms and data structures that Knuth documented, particularly for queue management and optimization.
+
+### Internet Infrastructure
+TCP represents the practical realization of reliable network communication, building on the theoretical foundations and collaborative processes documented throughout this collection. Together with IP, TCP created the infrastructure that enables all modern internet applications and services.
+
 *"TCP is based on concepts first described by Cerf and Kahn in [CERF74]. The TCP fits into a layered protocol architecture just above a basic Internet Protocol which provides a way for the TCP to send and receive variable-length segments of information enclosed in internet datagram 'envelopes'."* - RFC 793

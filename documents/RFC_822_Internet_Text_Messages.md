@@ -208,4 +208,31 @@ RFC 822 represents one of the most successful and enduring internet standards. I
 
 ---
 
+## Related Documents in This Collection
+
+### Network Infrastructure Dependencies
+- **[RFC 791: Internet Protocol](RFC_791_Internet_Protocol.md)** - Email delivery depends on IP for routing messages between mail servers across internetworks.
+
+- **[RFC 793: Transmission Control Protocol](RFC_793_TCP_Protocol.md)** - SMTP (Simple Mail Transfer Protocol) uses TCP's reliable delivery service to ensure email messages are transmitted without corruption or loss.
+
+### RFC Series Evolution
+- **[RFC 1: Host Software](RFC_1_Host_Software.md)** - The collaborative RFC process that began with RFC 1 enabled the development of RFC 822's standardized email format through community input and iteration.
+
+- **[ARPANET Foundational Papers](ARPANET_Foundational_Papers.md)** - RFC 822 implements the vision of computer-mediated communication described in early ARPANET papers, particularly Licklider's concept of computers as communication devices.
+
+### Information Theory Foundations
+- **[A Mathematical Theory of Communication](Shannon_Mathematical_Theory_Communication.md)** - RFC 822's structured message format and header fields apply Shannon's principles for efficient, unambiguous information transmission.
+
+### Practical Applications
+- **[RFC 2616: HTTP/1.1](RFC_2616_HTTP_1_1.md)** - HTTP headers were influenced by RFC 822's message header design, showing how email formatting concepts influenced web protocols.
+
+### System Architecture
+- **[First Draft of a Report on the EDVAC](Von_Neumann_EDVAC_Report.md)** - Von Neumann's stored-program computers enabled the mail systems that implement RFC 822's message processing and routing.
+
+### Programming and Structure
+- **[Go To Statement Considered Harmful](Dijkstra_Go_To_Statement_Considered_Harmful.md)** - RFC 822's structured approach to message formatting parallels Dijkstra's advocacy for clear, well-organized program structure.
+
+### Universal Communication
+RFC 822 represents the practical realization of universal electronic communication, building on the networking infrastructure documented in other RFCs and the theoretical foundations of computation and information theory established in the foundational papers of this collection.
+
 *"This specification is intended for use in the ARPA Internet. However, an attempt has been made to free it of any dependence on that environment, so that it can be applied to other networks."* - RFC 822
