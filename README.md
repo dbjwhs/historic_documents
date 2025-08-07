@@ -23,3 +23,4 @@ Documents are organized in the `documents/` directory with descriptive filenames
 - **[Go To Statement Considered Harmful](documents/Dijkstra_Go_To_Statement_Considered_Harmful.md)** - Edsger Dijkstra's influential 1968 letter that sparked the structured programming movement and changed how we write code
 - **[RFC 791: Internet Protocol](documents/RFC_791_Internet_Protocol.md)** - Jon Postel's 1981 specification that defined IPv4 and provided the addressing foundation for the modern internet
 - **[RFC 822: Internet Text Messages](documents/RFC_822_Internet_Text_Messages.md)** - David Crocker's 1982 specification that established the email message format and addressing system still used today
+- **[RFC 1: Host Software](documents/RFC_1_Host_Software.md)** - Steve Crocker's historic 1969 document that launched the RFC series and established the collaborative process that built the internet
