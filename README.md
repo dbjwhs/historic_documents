@@ -17,3 +17,4 @@ Documents are organized in the `documents/` directory with descriptive filenames
 ## Featured Documents
 
 - **[On Holy Wars and A Plea for Peace](documents/On_Holy_Wars_and_A_Plea_for_Peace.md)** - Danny Cohen's seminal 1980 paper on endianness that coined the terms "Big-Endian" and "Little-Endian"
+- **[The Therac-25 Investigation](documents/Therac-25_Investigation.md)** - Leveson & Turner's landmark 1993 investigation into software safety failures that led to radiation overdoses and deaths
