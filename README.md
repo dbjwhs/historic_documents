@@ -28,3 +28,4 @@ Documents are organized in the `documents/` directory with descriptive filenames
 - **[RFC 793: Transmission Control Protocol](documents/RFC_793_TCP_Protocol.md)** - Jon Postel's 1981 specification that defined TCP, providing reliable data transmission and completing the TCP/IP foundation of the internet
 - **[RFC 2616: HTTP/1.1](documents/RFC_2616_HTTP_1_1.md)** - The 1999 specification that defined HTTP/1.1, enabling the explosive growth of the World Wide Web and modern internet applications
 - **[ARPANET Foundational Papers](documents/ARPANET_Foundational_Papers.md)** - Collection of visionary and technical papers that created the internet, from Licklider's networking vision to Cerf and Kahn's TCP/IP protocol
+- **[Foundational Programming Languages](documents/Foundational_Programming_Languages.md)** - Historic papers documenting the creation of FORTRAN, COBOL, LISP, and ALGOL that transformed programming from machine code to high-level abstractions
