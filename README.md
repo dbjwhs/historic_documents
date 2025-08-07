@@ -26,3 +26,4 @@ Documents are organized in the `documents/` directory with descriptive filenames
 - **[RFC 1: Host Software](documents/RFC_1_Host_Software.md)** - Steve Crocker's historic 1969 document that launched the RFC series and established the collaborative process that built the internet
 - **[First Draft of a Report on the EDVAC](documents/Von_Neumann_EDVAC_Report.md)** - John von Neumann's 1945 report that defined the stored-program computer architecture used in virtually all modern computers
 - **[RFC 793: Transmission Control Protocol](documents/RFC_793_TCP_Protocol.md)** - Jon Postel's 1981 specification that defined TCP, providing reliable data transmission and completing the TCP/IP foundation of the internet
+- **[RFC 2616: HTTP/1.1](documents/RFC_2616_HTTP_1_1.md)** - The 1999 specification that defined HTTP/1.1, enabling the explosive growth of the World Wide Web and modern internet applications
