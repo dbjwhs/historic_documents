@@ -7,7 +7,11 @@
 **Correction:** Volume 43, Pages 544-546 (1937)  
 **Type:** Foundational Mathematical Paper  
 
-**📄 Original Document:** [On Computable Numbers, with an Application to the Entscheidungsproblem - Turing Archive](https://www.turingarchive.org/browse.php/B/12)  
+**📄 Original Document:** [On Computable Numbers, with an Application to the Entscheidungsproblem - Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-12)
+
+**Alternative Sources:**
+- [Proceedings of the London Mathematical Society (1936)](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.2.230)
+- [Princeton University Archive](https://catalog.princeton.edu/catalog/4609321)  
 
 ## Historical Context
 
