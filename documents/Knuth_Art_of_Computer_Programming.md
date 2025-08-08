@@ -347,6 +347,44 @@ Knuth's work provides the algorithmic foundation that underlies virtually every 
 ### Continuing Influence
 The mathematical rigor and comprehensive analysis that Knuth brought to computer science continues to influence how we approach software development, system design, and algorithm implementation across all areas of computing represented in this collection.
 
+## The Knuth Reward Check System
+
+One of the most famous traditions associated with TAOCP is Donald Knuth's reward system for error detection. Since the publication of the first volume in 1968, Knuth has offered financial rewards to readers who find errors in his books - a practice that has become legendary in the computer science community.
+
+### The Hexadecimal Dollar System
+
+Knuth offers **$2.56 USD** (which he calls one "hexadecimal dollar" or 0x$1.00) for each technical, typographical, or historical error found in his published works. He chose $2.56 because it equals 256 cents - one hexadecimal dollar. Valuable suggestions earn 32 cents (0.2 hexadecimal dollars), representing one-eighth the value of an error.
+
+### Evolution from Real Money to Certificates
+
+Initially, Knuth sent actual negotiable checks. However, due to check fraud problems, he discontinued real checks in October 2008 and established his fictional "Bank of San Serriffe" (named after the April Fool's Day country created by The Guardian in 1977). The bank purportedly has "branches in Blefuscu and Elbonia on the planet Pincus." Recipients now receive hexadecimal certificates instead of cashable checks.
+
+### Scale and Impact
+
+As of 2001, Knuth had written over 2,000 checks with a total value exceeding $20,000. Remarkably, very few recipients cash their checks - most frame them as treasured keepsakes. MIT's Technology Review describes these certificates as **"among computerdom's most prized trophies"** and they are widely considered **badges of honor** in the computer science field.
+
+### Real Examples from Recipients
+
+Here are documented examples of Knuth reward checks that demonstrate their significance:
+
+1. **[Nick Drozd's 0x$3.00 Check](https://nickdrozd.github.io/2019/05/17/knuth-check.html)** - Received for finding three simple errors: a misspelling in the index (Robin Williams' middle name), and two typographical errors. The recipient notes how even mundane errors are rewarded.
+
+2. **[Ken Shirriff's Hexadecimal Dollar](http://www.righto.com/2011/05/my-knuth-reward-check.html)** - A hardware engineer who set himself the goal of finding an error while on vacation and succeeded, calling it one of "computerdom's most prized trophies."
+
+3. **[Benj Azose's Experience](https://analyzethedata.substack.com/p/getting-a-knuth-check)** - Describes how computer science professors and industry professionals are "tremendously impressed" by his Knuth check, highlighting its prestige in the field.
+
+4. **[University of Michigan Feature](https://cse.engin.umich.edu/stories/an-eye-for-detail-brings-unique-rewards)** - Professor Igor Markov received multiple checks totaling $6.08 USD for finding bugs and making suggestions, demonstrating the academic recognition these awards carry.
+
+5. **[Recent 2023 Index Error](https://www.remcycles.net/blog/knuth_check.html)** - A recipient found missing names in index margin notes and received 0x$1.00, showing the system continues to operate for contemporary publications.
+
+### Cultural Significance and Badges of Honor
+
+The Knuth reward system represents more than error correction - it embodies the collaborative spirit of computer science and the pursuit of perfection in technical literature. Recipients often describe the honor of recognition from Knuth as more valuable than the monetary reward itself. The checks have become so culturally significant that they're featured in computer science folklore and serve as conversation starters among programming professionals.
+
+As one recipient noted: *"I have shown my check to people who I think are just WAY out of my league in computer science... who are tremendously impressed by it."* This testament to the checks' prestige underscores their role as genuine **badges of honor** within the computing community. Most recipients choose to frame their certificates rather than attempt to cash them, treating them as prestigious acknowledgments of their contribution to computer science literature.
+
+---
+
 *"Science is knowledge which we understand so well that we can teach it to a computer. Everything else is art."* - Donald E. Knuth
 
 *"The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming."* - Donald E. Knuth
