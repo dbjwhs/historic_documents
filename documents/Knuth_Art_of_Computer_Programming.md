@@ -357,7 +357,9 @@ Knuth offers **$2.56 USD** (which he calls one "hexadecimal dollar" or 0x$1.00) 
 
 ### Evolution from Real Money to Certificates
 
-Initially, Knuth sent actual negotiable checks. However, due to check fraud problems, he discontinued real checks in October 2008 and established his fictional "Bank of San Serriffe" (named after the April Fool's Day country created by The Guardian in 1977). The bank purportedly has "branches in Blefuscu and Elbonia on the planet Pincus." Recipients now receive hexadecimal certificates instead of cashable checks.
+Initially, Knuth sent actual negotiable checks. However, due to check fraud problems, he discontinued real checks in October 2008 and established his fictional "Bank of San Serriffe" (named after the April Fool's Day country created by The Guardian in 1977). The bank purportedly has "branches in Blefuscu and Elbonia on the planet Pincus" and is located in "Thirty Point, Caissa Inferiore, San Serriffe." Recipients now receive hexadecimal certificates instead of cashable checks.
+
+**[View the Official Bank of San Serriffe Balance Sheet](https://www-cs-faculty.stanford.edu/~knuth/boss.html)** - Knuth maintains a public ledger showing account balances for all error finders since 2006, with the highest balance held by Udo Wermuth at 0x$bd0.08 (approximately $765). Early withdrawals can be requested from Knuth at Stanford University, though "withdrawn funds do not decrease the grand totals shown above; but you aren't supposed to withdraw a reward twice."
 
 ### Scale and Impact
 
